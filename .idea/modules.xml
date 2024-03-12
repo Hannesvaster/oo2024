@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Game/Game.iml" filepath="$PROJECT_DIR$/Game/Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_funktsioon/Kodutoo/Kodutoo.iml" filepath="$PROJECT_DIR$/01_funktsioon/Kodutoo/Kodutoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_funktsioon/Kodutoo1/Kodutoo1.iml" filepath="$PROJECT_DIR$/01_funktsioon/Kodutoo1/Kodutoo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_funktsioon/Kodutoo1.2/Kodutoo1.2.iml" filepath="$PROJECT_DIR$/01_funktsioon/Kodutoo1.2/Kodutoo1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_funktsioon/Kodutoo2/Kodutoo2.iml" filepath="$PROJECT_DIR$/01_funktsioon/Kodutoo2/Kodutoo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_funktsioon/Tunnitoo/Tunnitoo.iml" filepath="$PROJECT_DIR$/01_funktsioon/Tunnitoo/Tunnitoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oo2024.iml" filepath="$PROJECT_DIR$/.idea/oo2024.iml" />
+    </modules>
+  </component>
+</project>
